@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Kevin Medeiros, tenho 33 anos e sou graduado em Análise e Desenvolvimento de Sistemas. <br><br>Após uma transição de carreira da área de Engenharia de Produção para TI, me especializei em desenvolvimento de softwares, com foco no ecossistema JavaScript. Minha principal expertise é em Node.js, Express.js, React.js, e TypeScript, tecnologias que me permitem construir APIs REST escaláveis, sistemas web de alto desempenho e soluções inovadoras, com a comunicação eficiente entre back-end, front-end e bancos de dados.</p>
+<p align="left">Me chamo Kevin Medeiros, tenho 33 anos e sou graduado em Análise e Desenvolvimento de Sistemas. <br><br>Após uma transição de carreira da área de Engenharia de Produção para TI, me especializei em desenvolvimento de softwares, com foco no ecossistema JavaScript. Minha principal expertise é em Node.js, Express.js, React.js, e TypeScript, tecnologias que me permitem construir APIs REST escaláveis, sistemas web de alto desempenho e soluções inovadoras, com a comunicação eficiente entre back-end, front-end e bancos de dados.<br><br>Habilidades e Tecnologias:<br><br>- Back-end: Node.js, Express.js, APIs RESTful, Microserviços, WebHooks;<br>- Front-end: React.js, React Native, JavaScript/TypeScript;<br>- Banco de Dados: MongoDB, SQL (MySQL, PostgreSQL);<br>- Outras Tecnologias: GitHub, Git, Jest, Insomnia, Nginx, Swagger UI;<br><br>Acredito que o desenvolvimento de software não é apenas sobre programar, mas também sobre resolver problemas reais e agregar valor às empresas e aos usuários finais. Meu foco está sempre em entregar resultados sólidos e escaláveis, com uma visão voltada para a inovação e melhoria contínua.</p>
 
 ###
 
