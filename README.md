@@ -33,6 +33,3 @@
 </div>
 
 ###
-
-![Snake animation](https://github.com/medeirosnvk/medeirosnvk/blob/output/github-contribution-grid-snake.svg)
-
