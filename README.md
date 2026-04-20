@@ -1,24 +1,31 @@
-<h1 align="left">Hey! 👋 Seja bem-vindo(a) ao meu GitHub!</h1>
+<h1 align="left">Olá! 👋 Seja bem-vindo(a) ao meu GitHub</h1>
 
 ###
 
 <p align="left">
-Me chamo Kevin Medeiros, sou graduado em Análise e Desenvolvimento de Sistemas e atuei em transição de carreira da Engenharia de Produção para a área de Tecnologia. <br><br>
-Hoje trabalho focado no ecossistema JavaScript, desenvolvendo soluções escaláveis com arquitetura moderna e orientadas a performance. Minha principal expertise está em Node.js, Express.js, React.js e TypeScript, tecnologias que utilizo para construir APIs REST robustas, integrações entre sistemas e aplicações web de alto desempenho.<br><br>
-Também atuo com soluções baseadas em IA, incluindo RAG, ChatBots e aplicações com LLM’s, estruturando fluxos inteligentes, integrações com APIs externas e automações orientadas a inteligência artificial.<br><br>
-Tenho experiência na construção de back-ends organizados, seguros e escaláveis, promovendo comunicação eficiente entre front-end, banco de dados e serviços externos. Utilizo agentes de programação e MCPs para otimizar produtividade, padronização e qualidade de código, sempre com foco em confiabilidade e evolução contínua.<br><br>
-Habilidades e Tecnologias:<br><br>
-- Back-end: Node.js, Express.js, APIs REST, Microserviços;<br>
-- Front-end: React.js, React Native, JavaScript, TypeScript;<br>
-- Banco de Dados: MongoDB, SQL (MySQL, PostgreSQL);<br>
-- IA e Arquitetura: RAG, LLM’s, ChatBots, Integrações com APIs;<br>
-- Outras Tecnologias: Git, GitHub, Jest, Nginx, Swagger UI, agentes de programação e MCPs;<br><br>
-Meu foco é entregar soluções sólidas, escaláveis e preparadas para crescimento contínuo, sempre seguindo boas práticas e código limpo para resolver problemas reais através de tecnologia.
+Me chamo <strong>Kevin Medeiros</strong>, sou Desenvolvedor Full Stack com foco no ecossistema JavaScript/TypeScript.<br><br>
+Há 3 anos venho modernizando sistemas legados e construindo back-ends preparados pra escala real. Trabalho principalmente com <strong>Node.js, Express, React e TypeScript</strong> na construção de APIs REST, integrações entre sistemas e aplicações web de alto desempenho.<br><br>
+Também atuo com <strong>IA aplicada</strong>: RAG, ChatBots e soluções baseadas em LLMs, orquestrando fluxos inteligentes, integrações com APIs externas e automações. Uso agentes de programação e MCPs no dia a dia pra ganhar produtividade, padronização e qualidade de código.<br><br>
+Venho da Engenharia de Produção, o que me dá uma leitura de processos e custo operacional que traduzo em decisões de arquitetura.
 </p>
 
 ###
 
-<h2 align="left">Principais Stacks</h2>
+<h2 align="left">🛠 Stack principal</h2>
+
+###
+
+<p align="left">
+<strong>Back-end:</strong> Node.js, Express, APIs REST, Microserviços<br>
+<strong>Front-end:</strong> React, React Native, JavaScript, TypeScript<br>
+<strong>Banco de Dados:</strong> MongoDB, MySQL, PostgreSQL, Redis<br>
+<strong>IA e Integrações:</strong> RAG, LLMs, ChatBots, MCPs, Agentes de programação<br>
+<strong>DevOps e Ferramentas:</strong> Docker, Git, GitHub, Jest, Nginx, Swagger UI
+</p>
+
+###
+
+<h2 align="left">💻 Tecnologias</h2>
 
 ###
 
@@ -33,15 +40,41 @@ Meu foco é entregar soluções sólidas, escaláveis e preparadas para crescime
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
 </div>
+
+###
+
+<h2 align="left">📊 Estatísticas</h2>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=medeirosnvk&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medeirosnvk&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="top langs" />
+</div>
+
+###
+
+<h2 align="left">📫 Contato</h2>
+
+###
+
+<p align="left">
+<a href="https://www.linkedin.com/in/kevin-medeiros-71a0b741/" target="_blank">LinkedIn</a> •
+<a href="mailto:kevin.medeiros91@gmail.com">kevin.medeiros91@gmail.com</a>
+</p>
 
 ###
