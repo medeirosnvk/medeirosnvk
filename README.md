@@ -6,8 +6,7 @@
 I'm <strong>Kevin Medeiros</strong>, a Full Stack Engineer focused on the JavaScript/TypeScript ecosystem.<br><br>
 For the past 4 years I've been modernizing legacy systems to the cloud and building back-ends ready for real-world scale. I work mainly with <strong>Node.js, Express, React and TypeScript</strong>, building REST APIs, system integrations and high-performance web applications.<br><br>
 I also work with <strong>applied AI</strong>: RAG, ChatBots and LLM-based solutions, orchestrating intelligent workflows, integrations with external APIs and automations. I use coding agents and MCPs daily to boost productivity, standardization and code quality.<br><br>
-I come from a Production Engineering background, which gives me a reading of processes and operational cost that I translate into architecture decisions.<br><br>
-<strong>Full Stack Engineer • Node.js / TypeScript / React • Legacy System Modernization to Cloud • Integrations, APIs, and AI (RAG, LLMs, MCPs) • Available for Contract (B2B) / Remote Work</strong>
+I come from a Production Engineering background, which gives me a reading of processes and operational cost that I translate into architecture decisions.
 </p>
 
 ###
