@@ -1,31 +1,32 @@
-<h1 align="left">Olá! 👋 Seja bem-vindo(a) ao meu GitHub</h1>
+<h1 align="left">Hi! 👋 Welcome to my GitHub</h1>
 
 ###
 
 <p align="left">
-Me chamo <strong>Kevin Medeiros</strong>, sou Desenvolvedor Full Stack com foco no ecossistema JavaScript/TypeScript.<br><br>
-Há 3 anos venho modernizando sistemas legados e construindo back-ends preparados pra escala real. Trabalho principalmente com <strong>Node.js, Express, React e TypeScript</strong> na construção de APIs REST, integrações entre sistemas e aplicações web de alto desempenho.<br><br>
-Também atuo com <strong>IA aplicada</strong>: RAG, ChatBots e soluções baseadas em LLMs, orquestrando fluxos inteligentes, integrações com APIs externas e automações. Uso agentes de programação e MCPs no dia a dia pra ganhar produtividade, padronização e qualidade de código.<br><br>
-Venho da Engenharia de Produção, o que me dá uma leitura de processos e custo operacional que traduzo em decisões de arquitetura.
+I'm <strong>Kevin Medeiros</strong>, a Full Stack Engineer focused on the JavaScript/TypeScript ecosystem.<br><br>
+For the past 4 years I've been modernizing legacy systems to the cloud and building back-ends ready for real-world scale. I work mainly with <strong>Node.js, Express, React and TypeScript</strong>, building REST APIs, system integrations and high-performance web applications.<br><br>
+I also work with <strong>applied AI</strong>: RAG, ChatBots and LLM-based solutions, orchestrating intelligent workflows, integrations with external APIs and automations. I use coding agents and MCPs daily to boost productivity, standardization and code quality.<br><br>
+I come from a Production Engineering background, which gives me a reading of processes and operational cost that I translate into architecture decisions.<br><br>
+<strong>Full Stack Engineer • Node.js / TypeScript / React • Legacy System Modernization to Cloud • Integrations, APIs, and AI (RAG, LLMs, MCPs) • Available for Contract (B2B) / Remote Work</strong>
 </p>
 
 ###
 
-<h2 align="left">🛠 Stack principal</h2>
+<h2 align="left">🛠 Main Stack</h2>
 
 ###
 
 <p align="left">
-<strong>Back-end:</strong> Node.js, Express, APIs REST, Microserviços<br>
+<strong>Back-end:</strong> Node.js, Express, REST APIs, Microservices<br>
 <strong>Front-end:</strong> React, React Native, JavaScript, TypeScript<br>
-<strong>Banco de Dados:</strong> MongoDB, MySQL, PostgreSQL, Redis<br>
-<strong>IA e Integrações:</strong> RAG, LLMs, ChatBots, MCPs, Agentes de programação<br>
-<strong>DevOps e Ferramentas:</strong> Docker, Git, GitHub, Jest, Nginx, Swagger UI
+<strong>Databases:</strong> MongoDB, MySQL, PostgreSQL, Redis<br>
+<strong>AI & Integrations:</strong> RAG, LLMs, ChatBots, MCPs, Coding Agents<br>
+<strong>DevOps & Tools:</strong> Docker, Git, GitHub, Jest, Nginx, Swagger UI
 </p>
 
 ###
 
-<h2 align="left">💻 Tecnologias</h2>
+<h2 align="left">💻 Technologies</h2>
 
 ###
 
@@ -57,7 +58,7 @@ Venho da Engenharia de Produção, o que me dá uma leitura de processos e custo
 
 ###
 
-<h2 align="left">📊 Estatísticas</h2>
+<h2 align="left">📊 Stats</h2>
 
 ###
 
@@ -68,7 +69,7 @@ Venho da Engenharia de Produção, o que me dá uma leitura de processos e custo
 
 ###
 
-<h2 align="left">📫 Contato</h2>
+<h2 align="left">📫 Contact</h2>
 
 ###
 
