@@ -63,7 +63,7 @@ I come from a Production Engineering background, which gives me a reading of pro
 
 <p align="left">
 <a href="https://www.linkedin.com/in/kevin-medeiros-71a0b741/" target="_blank">LinkedIn</a> •
-<a href="mailto:kevin.medeiros91@gmail.com">kevin.medeiros91@gmail.com</a>
+<a href="mailto:kevinmedeirosdev@gmail.com">kevinmedeirosdev@gmail.com</a>
 </p>
 
 ###
