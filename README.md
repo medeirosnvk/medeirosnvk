@@ -57,17 +57,6 @@ I come from a Production Engineering background, which gives me a reading of pro
 
 ###
 
-<h2 align="left">📊 Stats</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=medeirosnvk&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medeirosnvk&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="top langs" />
-</div>
-
-###
-
 <h2 align="left">📫 Contact</h2>
 
 ###
